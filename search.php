@@ -3,8 +3,8 @@
 include("admin/include/config.php");
 
 include("header.php");
-
-include("testing");
+//not useful
+//include("testing");
 
 include ("admin/include/class_pagination.php");
 
